@@ -7,8 +7,6 @@ Blogs/Articles
     * [Network Communication and Serialization in Rust](http://blog.safaribooksonline.com/2014/01/28/network-communication-serialization-rust/)
     * [Parameters and Bounds in Rust](http://blog.safaribooksonline.com/2014/01/30/parameters-bounds-rust/)
 * [Understanding Pointers, Ownership, and Lifetimes in Rust](http://paulkoerbitz.de/posts/Understanding-Pointers-Ownership-and-Lifetimes-in-Rust.html)
-* [The State of Rust 0.9](http://cmr.github.io/blog/2014/01/12/the-state-of-rust-0-dot-9/)
-* [This Week in Rust](http://cmr.github.io/blog/categories/this-week-in-rust/)
 * [rust on babysteps](http://smallcultfollowing.com/babysteps/blog/categories/rust/)
 * [Concurrency Models, Rust, and Servo](http://www.lars.com/concurrency/rust/servo/2013/12/21/concurrency-rust-and-servo.html)
 * [A 30 minute introduction to Rust](http://words.steveklabnik.com/a-30-minute-introduction-to-rust)
@@ -16,7 +14,14 @@ Blogs/Articles
 * [Pointers in Rust: a guide](http://words.steveklabnik.com/pointers-in-rust-a-guide)
 * [Getting Rusty](http://pzol.github.io/getting_rusty/archive/)
 * [A Just-in-time Compiler In Rust](http://hydrocodedesign.com/2014/01/17/jit-just-in-time-compiler-rust/)
-* [Programming With Rust — Part One: So Where Are The Sockets ?](http://justanapplication.wordpress.com/2013/06/10/programming-with-rust-part-one-so-where-are-the-sockets/)
+* [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/)
+* [The State of Rust 0.9](http://cmr.github.io/blog/2014/01/12/the-state-of-rust-0-dot-9/)
+
+Rust < 0.9
+----------
+* [Rust on "Just An Application"](http://justanapplication.wordpress.com/category/programming-languages/rust/)
+  * [Programming With Rust — Part One: So Where Are The Sockets ?](http://justanapplication.wordpress.com/2013/06/10/programming-with-rust-part-one-so-where-are-the-sockets/)
+
 
 Tutorials
 =========
@@ -32,7 +37,12 @@ Slides
 * [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/)
 * [Hello Rust](https://speakerdeck.com/wycats/hello-rust)
 
+Code Examples
+=============
+* [Console Tetris in Rust](https://github.com/jankes/tetris1) / [on reddit](http://www.reddit.com/r/rust/comments/1yr2uz/tetris_game_in_rust/)
+
 Others
 ======
+* [This Week in Rust](http://cmr.github.io/blog/categories/this-week-in-rust/)
 * [Rust on reddit](http://www.reddit.com/r/rust/new/)
 * [Rust on SO](http://stackoverflow.com/questions/tagged/rust)
