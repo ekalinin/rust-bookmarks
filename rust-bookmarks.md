@@ -9,9 +9,10 @@ Blogs/Articles
 * [Understanding Pointers, Ownership, and Lifetimes in Rust](http://paulkoerbitz.de/posts/Understanding-Pointers-Ownership-and-Lifetimes-in-Rust.html)
 * [rust on babysteps](http://smallcultfollowing.com/babysteps/blog/categories/rust/)
 * [Concurrency Models, Rust, and Servo](http://www.lars.com/concurrency/rust/servo/2013/12/21/concurrency-rust-and-servo.html)
-* [A 30 minute introduction to Rust](http://words.steveklabnik.com/a-30-minute-introduction-to-rust)
-* [Rust is surprisingly expressive](http://words.steveklabnik.com/rust-is-surprisingly-expressive)
-* [Pointers in Rust: a guide](http://words.steveklabnik.com/pointers-in-rust-a-guide)
+* From http://words.steveklabnik.com:
+  * [A 30 minute introduction to Rust](http://words.steveklabnik.com/a-30-minute-introduction-to-rust)
+  * [Rust is surprisingly expressive](http://words.steveklabnik.com/rust-is-surprisingly-expressive)
+  * [Pointers in Rust: a guide](http://words.steveklabnik.com/pointers-in-rust-a-guide)
 * [Getting Rusty](http://pzol.github.io/getting_rusty/archive/)
 * [A Just-in-time Compiler In Rust](http://hydrocodedesign.com/2014/01/17/jit-just-in-time-compiler-rust/)
 * [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/)
