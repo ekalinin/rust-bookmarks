@@ -31,19 +31,29 @@ Tutorials
     * [cs4414: Operating Systems](http://rust-class.org/pages/using-rust-for-an-undergraduate-os-course.html)
 * [Rust tutorials](http://adrientetar.github.io/rust-tuts/tutorial/index.html)
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
+* [Rust koans](https://github.com/AutomatedTester/rust-koans)
 
 Slides
 ======
 * [Rust for $LANGUAGE-ists](http://steveklabnik.github.io/nobody_knows_rust/#/)
 * [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/)
 * [Hello Rust](https://speakerdeck.com/wycats/hello-rust)
+* [Guaranteeing memory safety in Rust](http://smallcultfollowing.com/babysteps/blog/2013/07/18/rust-presentation-at-northeastern/)
+* [A Dabbler's Adventures in Rust](http://angrylawyer.github.io/a-dabblers-adventures-in-rust/)
+* [Rust (programming language)](http://www.reddit.com/r/rust/comments/1yvu34/slides_of_a_short_presentation_i_recently_gave/)
 
 Code Examples
 =============
 * [Console Tetris in Rust](https://github.com/jankes/tetris1) / [on reddit](http://www.reddit.com/r/rust/comments/1yr2uz/tetris_game_in_rust/)
+* [Code examples from test/bench - most recent](https://github.com/mozilla/rust/tree/master/src/test/bench)
+* [Rust trending/month on github](https://github.com/trending?l=rust&since=monthly)
+* [Rossetta Code](https://github.com/brianseitel/rust-rosetta)
+* [Rossetta Code2](https://github.com/Hoverbear/rust-rosetta)
+* [exercismo.io](https://github.com/exercism/exercism.io/issues/297)
 
 Others
 ======
 * [This Week in Rust](http://cmr.github.io/blog/categories/this-week-in-rust/)
 * [Rust on reddit](http://www.reddit.com/r/rust/new/)
 * [Rust on SO](http://stackoverflow.com/questions/tagged/rust)
+* [Rust community on Google+](https://plus.google.com/communities/115152292505513839896)
