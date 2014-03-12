@@ -41,6 +41,7 @@ Slides
 * [Guaranteeing memory safety in Rust](http://smallcultfollowing.com/babysteps/blog/2013/07/18/rust-presentation-at-northeastern/)
 * [A Dabbler's Adventures in Rust](http://angrylawyer.github.io/a-dabblers-adventures-in-rust/)
 * [Rust (programming language)](http://www.reddit.com/r/rust/comments/1yvu34/slides_of_a_short_presentation_i_recently_gave/)
+* [Rust Patterns 2013](http://people.mozilla.org/~lbergstrom/Korea2013/RustPatterns.pdf)
 
 Code Examples
 =============
