@@ -19,7 +19,6 @@ Blogs/Articles
 * [The State of Rust 0.9](http://cmr.github.io/blog/2014/01/12/the-state-of-rust-0-dot-9/)
 * [A More Detailed Tour of the Rust Compiler](http://tomlee.co/2014/04/03/a-more-detailed-tour-of-the-rust-compiler/)
 * [Parallel JS compression with Rust](http://alan-andrade.github.io/rust/javascript/2014/03/31/parallel_js_compression.html)
-* 
 
 Rust < 0.9
 ----------
