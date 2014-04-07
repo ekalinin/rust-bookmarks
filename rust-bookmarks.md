@@ -17,6 +17,9 @@ Blogs/Articles
 * [A Just-in-time Compiler In Rust](http://hydrocodedesign.com/2014/01/17/jit-just-in-time-compiler-rust/)
 * [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/)
 * [The State of Rust 0.9](http://cmr.github.io/blog/2014/01/12/the-state-of-rust-0-dot-9/)
+* [A More Detailed Tour of the Rust Compiler](http://tomlee.co/2014/04/03/a-more-detailed-tour-of-the-rust-compiler/)
+* [Parallel JS compression with Rust](http://alan-andrade.github.io/rust/javascript/2014/03/31/parallel_js_compression.html)
+* 
 
 Rust < 0.9
 ----------
