@@ -34,6 +34,7 @@ Tutorials
 * [Rust tutorials](http://adrientetar.github.io/rust-tuts/tutorial/index.html)
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
 * [Rust koans](https://github.com/AutomatedTester/rust-koans)
+* [Rust by Example](http://rustbyexample.com/)
 
 Slides
 ======
